@@ -32,27 +32,12 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
-<br>Eclipse
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codecomposer/codecomposer-original.svg" width="48" height="48" alt="Code Composer" />
-<br>Code Composer
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/iar.svg" width="48" height="48" alt="IAR" />
-<br>IAR
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proteus.svg" width="48" height="48" alt="Proteus" />
-<br>Proteus
-</td>
-</tr>
-</table>
+[![Eclipse](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eclipse_Logo_2017.svg)](https://www.eclipse.org/)
+[![VS Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)
+[![IAR](https://upload.wikimedia.org/wikipedia/commons/2/2b/IAR_Embedded_Workbench_logo.svg)](https://www.iar.com/)
+[![Proteus](https://upload.wikimedia.org/wikipedia/commons/4/4f/Proteus_Logo.png)](https://www.labcenter.com/)
+[![Arduino](https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_Logo_2019.svg)](https://www.arduino.cc/)
+[![ESP-IDF](https://upload.wikimedia.org/wikipedia/commons/3/3f/ESP-IDF_logo.svg)](https://docs.espressif.com/projects/esp-idf/en/latest/)
+[![STM32CubeIDE](https://upload.wikimedia.org/wikipedia/commons/3/3b/STM32CubeIDE_logo.svg)](https://www.st.com/en/development-tools/stm32cubeide.html)
+[![Multisim](https://upload.wikimedia.org/wikipedia/commons/7/7f/NI_Multisim_logo.png)](https://www.ni.com/en-us/shop/select/multisim)
+[![Code Composer](https://upload.wikimedia.org/wikipedia/commons/4/4a/Code_Composer_Studio_logo.png)](https://www.ti.com/tool/CCSTUDIO)
