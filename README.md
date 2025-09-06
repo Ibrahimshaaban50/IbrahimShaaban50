@@ -16,7 +16,7 @@
 <p align="center">
   <div style="background: linear-gradient(to right, #1E90FF, #8A2BE2); height: 4px; width: 50%; border-radius: 2px;"></div>
 </p>
-
+---
 <hr style="border: 2px solid blue;">
 # **Who I Am**
 <hr style="border: 2px solid purple;">
