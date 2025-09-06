@@ -1,45 +1,55 @@
-<h1 align="center">Ibrahim Shaaban</h1>
-<h3 align="center">Embedded Systems Engineer</h3>
+<!-- Dynamic Name + Title -->
+<h1 align="center">Hi 👋, I'm Ibrahim Shaaban</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Junior+Embedded+Systems+Engineer+%26+IoT+Developer;Automotive+Engineer" alt="Typing SVG" />
+  </a>
+</h3>
 
 ---
 
 ### 👨‍💻 About Me
-Hi there! I'm a passionate **Embedded Software Engineer** with a strong interest in Automotive and Embedded Systems.  
-I have solid experience in developing efficient and innovative solutions through projects, internships, and continuous learning in the Embedded field.  
+I’m a passionate **Junior Embedded Systems Engineer & IoT Developer** with a strong focus on **Automotive Embedded Systems**.  
+I’m highly motivated to develop efficient and innovative solutions in embedded software with hands-on experience in:  
 
-- 🔋 Graduation Project: *IoT-Based Battery Monitoring System for Electric Vehicles* (VW ID.4, CAN Bus & OBD-II).  
-- ⚡ Worked on various Embedded Systems projects (ARM Cortex-M, RTOS, CAN communication, AUTOSAR).  
-- 🛠 Hands-on with multiple microcontrollers and platforms (TivaC, STM32, Arduino).  
-- 🚀 Always learning new technologies and tools to improve system performance.  
-- 🌍 Looking to collaborate with highly respected companies in the Embedded Systems field.  
+- 🔋 Graduation Project: *IoT-Based Battery Monitoring System for Electric Vehicles (VW ID.4)* using CAN Bus & OBD-II.  
+- ⚡ Worked on various Embedded Systems projects (ARM Cortex-M, STM32, TivaC, RTOS, CAN communication).  
+- 🚗 Knowledge in **AUTOSAR** architecture and **Functional Safety (ISO 26262)** standards.  
+- 🛠 Experienced in debugging, testing, and hardware/software integration.  
+- 🌍 Looking to collaborate with forward-thinking companies in the Automotive and Embedded Systems field.  
 
 ---
 
-### 🛠 Embedded Systems Tools
-<p align="left">
-  <!-- Languages -->
+### 🛠 Skills & Tools
+#### **Languages & Programming**
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  
-  <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-  
-  <!-- Compilers & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
-  
-  <!-- Embedded-specific -->
-  <img src="https://img.icons8.com/color/48/stm32-microcontroller.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/texas-instruments.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/arduino.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/raspberry-pi.png" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</p>
 
-  <!-- Extra Tools -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-code-composer-coding-and-development-flat-flat-juicy-fish.png" width="40" height="40" title="Code Composer Studio"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-iar-embedded-soft-fill-soft-fill-juicy-fish.png" width="40" height="40" title="IAR Embedded Workbench"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-proteus-engineering-and-development-flat-flat-juicy-fish.png" width="40" height="40" title="Proteus"/>
+#### **IDEs & Development Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" title="Eclipse"/>
+  <img src="https://img.icons8.com/color/48/texas-instruments.png" width="40" height="40" title="Code Composer Studio"/>
+  <img src="https://img.icons8.com/color/48/texas-instruments.png" width="40" height="40" title="IAR Embedded Workbench"/>
+  <img src="https://img.icons8.com/color/48/proteus.png" width="40" height="40" title="Proteus"/>
+</p>
+
+#### **Platforms & Hardware**
+<p>
+  <img src="https://img.icons8.com/color/48/arduino.png" width="40" height="40" title="Arduino"/>
+  <img src="https://img.icons8.com/color/48/raspberry-pi.png" width="40" height="40" title="Raspberry Pi"/>
+  <img src="https://img.icons8.com/color/48/stm32-microcontroller.png" width="40" height="40" title="STM32"/>
+  <img src="https://img.icons8.com/color/48/texas-instruments.png" width="40" height="40" title="TivaC"/>
+</p>
+
+#### **Other Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" title="MATLAB"/>
 </p>
 
 ---
@@ -51,3 +61,6 @@ I have solid experience in developing efficient and innovative solutions through
 </p>
 
 ---
+
+### 👀 Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> </p>
