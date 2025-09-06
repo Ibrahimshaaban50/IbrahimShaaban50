@@ -46,6 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  <img src="https://www.labcenter.com/wp-content/uploads/2021/09/proteus-logo.png" width="64" height="64" alt="Proteus" />
+  <img src="YOUR_PROTEUS_ICON_URL.svg" width="48" height="48" alt="Proteus" />
 </div>
 <hr style="border: 2px solid purple;">
