@@ -46,7 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  <img src="https://devicon-website.vercel.app/api/embeddedc/original.svg"></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Embedded_C_logo.png" width="64" height="64" alt="Embedded C" />
+  <img src="https://www.labcenter.com/wp-content/uploads/2021/09/proteus-logo.png" width="64" height="64" alt="Proteus" />
+
 </div>
 
 <hr style="border: 2px solid purple;">
