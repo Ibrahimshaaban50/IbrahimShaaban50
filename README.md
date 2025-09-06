@@ -19,3 +19,4 @@
 
 <hr style="border: 2px solid; border-image: linear-gradient(to right, blue, purple) 1;">
 
+<hr style="border: 2px solid blue;">
