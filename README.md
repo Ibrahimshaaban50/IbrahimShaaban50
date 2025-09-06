@@ -37,59 +37,41 @@
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
-<br>Eclipse
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" width="48" height="48" alt="Code Composer" />
-<br>Code Composer
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="IAR" />
-<br>IAR
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="Tresos GUI" />
-<br>Tresos GUI
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Proteus" />
-<br>Proteus
+<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino IDE" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="Matlab" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino IDE" />
-<br>Arduino IDE
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="Espressif IDE" />
-<br>Espressif IDE
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="STM32 CubeProgrammer" />
-<br>STM32 CubeProg
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="STM32 Cube IDE" />
-<br>STM32 CubeIDE
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48" height="48" alt="Multisim" />
-<br>Multisim
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
-<br>Ubuntu
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
 </td>
 </tr>
 </table>
