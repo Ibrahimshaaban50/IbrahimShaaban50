@@ -18,3 +18,17 @@
 </p>
 
 <hr style="border: 2px solid blue;">
+**ABOUT ME**
+<hr style="border: 2px solid purple;">
+
+👋 Hi there! I'm **Ibrahim Shaaban**, a passionate Junior Embedded Systems Engineer & IoT Developer with a focus on automotive applications. I specialize in creating efficient and innovative embedded solutions and IoT systems that bridge hardware and software.  
+
+🔭 I've worked in **various Embedded Systems projects** including **Arduino, AVR Cortex-M, ARM, ESP32, STM32, Tiva C**, collecting real-time data and integrating IoT solutions.  
+
+🤖 I've completed **4+ mini projects** and **2 real-world projects**, including my graduation project: **IoT-Based Battery Monitoring System for Electric Vehicles** (VW ID.4), where I collected data via **CAN Bus & OBD-II** and visualized it using **ThingsBoard**.  
+
+👨‍🏫 I’ve supervised and guided multiple mini-projects, sharing my knowledge and experience with fellow students and hobbyists.  
+
+🌱 I’m currently learning **advanced Embedded C++** and **Automotive Data Analytics**, while continuing hands-on work with embedded systems and IoT integration.  
+
+🤝 I’m looking to collaborate with **innovative companies in automotive and embedded systems**, contributing to smarter and more efficient solutions.
