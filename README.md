@@ -32,10 +32,82 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-[![Eclipse](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eclipse_Logo_2017.svg)](https://www.eclipse.org/)
-[![VS Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)
-[![IAR](https://upload.wikimedia.org/wikipedia/commons/2/2b/IAR_Embedded_Workbench_logo.svg)](https://www.iar.com/)
-[![Proteus](https://upload.wikimedia.org/wikipedia/commons/4/4f/Proteus_Logo.png)](https://www.labcenter.com/)[![Eclipse](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eclipse_Logo_2017.svg)](https://www.eclipse.org/)
-[![VS Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)
-[![IAR](https://upload.wikimedia.org/wikipedia/commons/2/2b/IAR_Embedded_Workbench_logo.svg)](https://www.iar.com/)
-[![Proteus](https://upload.wikimedia.org/wikipedia/commons/4/4f/Proteus_Logo.png)](https://www.labcenter.com/)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+<br>Arduino
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+<br>Raspberry Pi
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu" />
+<br>Ubuntu
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt" />
+<br>Qt
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
+<br>Eclipse
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime" />
+<br>Sublime
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br>Rust
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" />
+<br>CMake
+</td>
+</tr>
+</table>
+</div>
