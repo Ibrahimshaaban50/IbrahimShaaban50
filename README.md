@@ -17,6 +17,5 @@
   <div style="background: linear-gradient(to right, #1E90FF, #8A2BE2); height: 4px; width: 50%; border-radius: 2px;"></div>
 </p>
 
-<hr style="border: 2px solid; border-image: linear-gradient(to right, blue, purple) 1;">
+![Rainbow Line](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-<hr style="border: 2px solid blue;">
