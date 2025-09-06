@@ -18,7 +18,7 @@
 </p>
 ---
 <hr style="border: 2px solid blue;">
-# Who I Am
+# **Who I Am**
 <hr style="border: 2px solid purple;">
 
 👋 Hi there! I'm Ibrahim Shaaban, a passionate **Junior Embedded Systems Engineer & IoT Developer** with a focus on automotive applications. I specialize in creating efficient and innovative embedded solutions and IoT systems that bridge hardware and software.  
@@ -35,7 +35,7 @@
 
 ---
 
-# **SKILLS & TOOLS**
+# **Who I Am**
 <hr style="border: 1px solid gray;">
 
 - 💻 **Programming & Languages:** C, C++ (Embedded), Python  
