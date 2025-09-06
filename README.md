@@ -39,51 +39,20 @@
 <br>Eclipse
 </td>
 <td align="center" width="96">
-<img src="https://github.com/devicons/devicon/blob/master/icons/codecomposer/codecomposer-original.svg" width="48" height="48" alt="Code Composer" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codecomposer/codecomposer-original.svg" width="48" height="48" alt="Code Composer" />
 <br>Code Composer
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/IAR_Systems_logo.svg" width="48" height="48" alt="IAR" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/iar.svg" width="48" height="48" alt="IAR" />
 <br>IAR
-</td>
-<td align="center" width="96">
-<img src="https://www.elektrobit.com/fileadmin/_processed_/4/8/csm_tresos_logo_4c_240_e5c4dcb3d2.png" width="48" height="48" alt="Tresos GUI" />
-<br>Tresos GUI
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 <br>VS Code
 </td>
 <td align="center" width="96">
-<img src="https://www.labcenter.com/wp-content/uploads/2021/09/proteus-logo.png" width="48" height="48" alt="Proteus" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/proteus.svg" width="48" height="48" alt="Proteus" />
 <br>Proteus
 </td>
 </tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino IDE" />
-<br>Arduino IDE
-</td>
-<td align="center" width="96">
-<img src="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_static/espressif-logo.svg" width="48" height="48" alt="Espressif IDE" />
-<br>ESP-IDF
-</td>
-<td align="center" width="96">
-<img src="https://www.st.com/content/ccc/resource/corporate/brand_identity/LOGO/group0/19/6b/cf/2d/25/3e/4c/b4/st-cube-logo/files/ST_CUBE_Logo.png" width="48" height="48" alt="STM32 CubeProgrammer" />
-<br>STM32CubeProg
-</td>
-<td align="center" width="96">
-<img src="https://www.st.com/content/ccc/resource/corporate/brand_identity/LOGO/group0/19/6b/cf/2d/25/3e/4c/b4/st-cube-logo/files/ST_CUBE_Logo.png" width="48" height="48" alt="STM32 Cube IDE" />
-<br>STM32CubeIDE
-</td>
-<td align="center" width="96">
-<img src="https://logos-world.net/wp-content/uploads/2021/09/NI-Multisim-Logo.png" width="48" height="48" alt="Multisim" />
-<br>Multisim
-</td>
-<td align="center" width="96">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48" height="48" alt="More Tools" />
-<br>More...
-</td>
-</tr>
 </table>
-</div>
