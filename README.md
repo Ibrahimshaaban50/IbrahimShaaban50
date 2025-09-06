@@ -47,3 +47,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
 </div>
+
+<hr style="border: 2px solid purple;">
