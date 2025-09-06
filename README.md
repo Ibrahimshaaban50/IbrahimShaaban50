@@ -32,11 +32,6 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-# EMBEDDED SYSTEM TOOLS
-<hr style="border: 2px solid purple;">
-# EMBEDDED SYSTEM TOOLS
-<hr style="border: 2px solid purple;">
-
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" height="64" alt="Anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64" height="64" alt="C" />
