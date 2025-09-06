@@ -16,9 +16,9 @@
 <p align="center">
   <div style="background: linear-gradient(to right, #1E90FF, #8A2BE2); height: 4px; width: 50%; border-radius: 2px;"></div>
 </p>
----
-<hr style="border: 2px solid blue;">
-# **WHO I AM**
+
+
+# **About ME**
 <hr style="border: 2px solid purple;">
 
 👋 Hi there! I'm Ibrahim Shaaban, a passionate **Junior Embedded Systems Engineer & IoT Developer** with a focus on automotive applications. I specialize in creating efficient and innovative embedded solutions and IoT systems that bridge hardware and software.  
