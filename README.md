@@ -32,12 +32,15 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-[![Eclipse](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eclipse_Logo_2017.svg)](https://www.eclipse.org/)
-[![VS Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)
-[![IAR](https://upload.wikimedia.org/wikipedia/commons/2/2b/IAR_Embedded_Workbench_logo.svg)](https://www.iar.com/)
-[![Proteus](https://upload.wikimedia.org/wikipedia/commons/4/4f/Proteus_Logo.png)](https://www.labcenter.com/)
-[![Arduino](https://upload.wikimedia.org/wikipedia/commons/1/1b/Arduino_Logo_2019.svg)](https://www.arduino.cc/)
-[![ESP-IDF](https://upload.wikimedia.org/wikipedia/commons/3/3f/ESP-IDF_logo.svg)](https://docs.espressif.com/projects/esp-idf/en/latest/)
-[![STM32CubeIDE](https://upload.wikimedia.org/wikipedia/commons/3/3b/STM32CubeIDE_logo.svg)](https://www.st.com/en/development-tools/stm32cubeide.html)
-[![Multisim](https://upload.wikimedia.org/wikipedia/commons/7/7f/NI_Multisim_logo.png)](https://www.ni.com/en-us/shop/select/multisim)
-[![Code Composer](https://upload.wikimedia.org/wikipedia/commons/4/4a/Code_Composer_Studio_logo.png)](https://www.ti.com/tool/CCSTUDIO)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
