@@ -32,10 +32,10 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" height="64" alt="Anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64" height="64" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="64" height="64" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
@@ -46,9 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Embedded_C_logo.png" width="64" height="64" alt="Embedded C" />
   <img src="https://www.labcenter.com/wp-content/uploads/2021/09/proteus-logo.png" width="64" height="64" alt="Proteus" />
-
 </div>
-
 <hr style="border: 2px solid purple;">
