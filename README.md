@@ -21,7 +21,7 @@
 # **About ME**
 
 
-●👋 Hi there! I'm Ibrahim Shaaban, a passionate **Junior Embedded Systems Engineer & IoT Developer** with a focus on automotive applications. I specialize in creating efficient and innovative embedded solutions and IoT systems that bridge hardware and software.  
+👋 Hi there! I'm Ibrahim Shaaban, a passionate **Junior Embedded Systems Engineer & IoT Developer** with a focus on automotive applications. I specialize in creating efficient and innovative embedded solutions and IoT systems that bridge hardware and software.  
 
 ●🔭 I've worked in various Embedded Systems projects including Arduino, AVR, ARM Cortex-M, ESP32, STM32, Tiva C, collecting real-time data and integrating IoT solutions.  
 
@@ -32,8 +32,8 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![IAR](https://img.shields.io/badge/IAR-FF6600?style=for-the-badge&logoColor=white)](https://www.iar.com/)
-[![Composer](https://img.shields.io/badge/Composer-4F5B93?style=for-the-badge&logoColor=white)](https://www.embeddedcomposer.com/)
-[![Proteus](https://img.shields.io/badge/Proteus-00AEEF?style=for-the-badge&logoColor=white)](https://www.labcenter.com/)
+[![Eclipse](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eclipse.svg)](https://www.eclipse.org/)
+[![VS Code](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg)](https://code.visualstudio.com/)
+[![IAR](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/iar.svg)](https://www.iar.com/)
+[![Composer](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/composer.svg)](https://getcomposer.org/)
+[![Proteus](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/labcenter.svg)](https://www.labcenter.com/)
