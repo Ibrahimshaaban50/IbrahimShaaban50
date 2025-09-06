@@ -32,15 +32,58 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
+<br>Eclipse
+</td>
+<td align="center" width="96">
+<img src="https://github.com/devicons/devicon/blob/master/icons/codecomposer/codecomposer-original.svg" width="48" height="48" alt="Code Composer" />
+<br>Code Composer
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/IAR_Systems_logo.svg" width="48" height="48" alt="IAR" />
+<br>IAR
+</td>
+<td align="center" width="96">
+<img src="https://www.elektrobit.com/fileadmin/_processed_/4/8/csm_tresos_logo_4c_240_e5c4dcb3d2.png" width="48" height="48" alt="Tresos GUI" />
+<br>Tresos GUI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://www.labcenter.com/wp-content/uploads/2021/09/proteus-logo.png" width="48" height="48" alt="Proteus" />
+<br>Proteus
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino IDE" />
+<br>Arduino IDE
+</td>
+<td align="center" width="96">
+<img src="https://docs.espressif.com/projects/esp-idf/en/latest/esp32/_static/espressif-logo.svg" width="48" height="48" alt="Espressif IDE" />
+<br>ESP-IDF
+</td>
+<td align="center" width="96">
+<img src="https://www.st.com/content/ccc/resource/corporate/brand_identity/LOGO/group0/19/6b/cf/2d/25/3e/4c/b4/st-cube-logo/files/ST_CUBE_Logo.png" width="48" height="48" alt="STM32 CubeProgrammer" />
+<br>STM32CubeProg
+</td>
+<td align="center" width="96">
+<img src="https://www.st.com/content/ccc/resource/corporate/brand_identity/LOGO/group0/19/6b/cf/2d/25/3e/4c/b4/st-cube-logo/files/ST_CUBE_Logo.png" width="48" height="48" alt="STM32 Cube IDE" />
+<br>STM32CubeIDE
+</td>
+<td align="center" width="96">
+<img src="https://logos-world.net/wp-content/uploads/2021/09/NI-Multisim-Logo.png" width="48" height="48" alt="Multisim" />
+<br>Multisim
+</td>
+<td align="center" width="96">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48" height="48" alt="More Tools" />
+<br>More...
+</td>
+</tr>
+</table>
+</div>
