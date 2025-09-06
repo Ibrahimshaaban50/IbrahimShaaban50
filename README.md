@@ -31,5 +31,9 @@
 
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
-# Embedded System Tools
-
+# Embedded Systems Tools
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![IAR](https://img.shields.io/badge/IAR-FF6600?style=for-the-badge&logoColor=white)](https://www.iar.com/)
+[![Composer](https://img.shields.io/badge/Composer-4F5B93?style=for-the-badge&logoColor=white)](https://www.embeddedcomposer.com/)
+[![Proteus](https://img.shields.io/badge/Proteus-00AEEF?style=for-the-badge&logoColor=white)](https://www.labcenter.com/)
