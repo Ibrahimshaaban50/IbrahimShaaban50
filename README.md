@@ -1,31 +1,51 @@
+<!-- Profile header -->
 <div align="center">
 
-  <h1 style="font-size: 3em; font-weight: bold;">Ibrahim Shaaban</h1>
+  <!-- اسمك كبير وثابت -->
+  <h1 style="font-size:48px; margin: 6px 0;">Ibrahim Shaaban</h1>
 
-  <div style="font-size: 1.5em; height: 40px; position: relative; margin-bottom: 20px;">
-    <span style="position:absolute; left:0; right:0; animation: fade 9s infinite;">Junior Embedded Engineer</span>
-    <span style="position:absolute; left:0; right:0; animation: fade 9s infinite 3s;">Data Analyst</span>
-    <span style="position:absolute; left:0; right:0; animation: fade 9s infinite 6s;">Automotive Enthusiast</span>
-  </div>
+  <!-- animated typing (يعمل من خدمة جاهزة) -->
+  <p>
+    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=Junior+Embedded+Systems+Engineer+And+IoT+Developer;Automotive+Engineer" />
+  </p>
 
-  <div style="height: 6px; width: 220px; border-radius: 4px;
-              background: linear-gradient(90deg, red, green, blue, red);
-              background-size: 400% 400%;
-              animation: rgbMove 6s linear infinite;
-              box-shadow: 0 0 15px rgba(255,255,255,0.8);">
-  </div>
+  <!-- فاصل ملون متحرك: استخدم الملف اللي حطيناه assets/rainbow-sep.svg -->
+  <p>
+    <img src="assets/rainbow-sep.svg" width="260" alt="rainbow separator" />
+  </p>
 
 </div>
 
-<style>
-@keyframes fade {
-  0%, 20% { opacity: 1; }
-  25%, 95% { opacity: 0; }
-  100% { opacity: 1; }
-}
-@keyframes rgbMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+---
+
+## About Me
+- 🔧 Junior Embedded Systems Engineer and IoT Developer, focused on Automotive Embedded applications.  
+- 🛠️ Experience: AVR (ATmega32), STM32 (Blue Pill), FreeRTOS, HAL/MCAL layered design, UART/ADC/GPIO drivers.  
+- 🎯 I deliver full projects: schematics, firmware, tested binaries and docs.
+
+---
+
+### امبيديد سيستم توولز
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+---
+
+## 📫 Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
