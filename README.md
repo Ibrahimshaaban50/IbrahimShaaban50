@@ -16,3 +16,7 @@
 <p align="center">
   <div style="background: linear-gradient(to right, #1E90FF, #8A2BE2); height: 4px; width: 50%; border-radius: 2px;"></div>
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/YourImageID.png" alt="Gradient Divider" width="50%">
+</p>
