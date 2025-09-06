@@ -17,5 +17,5 @@
   <div style="background: linear-gradient(to right, #1E90FF, #8A2BE2); height: 4px; width: 50%; border-radius: 2px;"></div>
 </p>
 
-![Rainbow Line]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZ0aTk3OTM0MjRvYWM1ajh0enRnbHQ2aGRrNjJhaXVsdjg0cmR1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYxqKEmJoL150TC/giphy.gif))
+<hr style="border: 2px solid blue;">
 
