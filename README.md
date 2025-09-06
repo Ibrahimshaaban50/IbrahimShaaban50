@@ -35,4 +35,7 @@
 [![Eclipse](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eclipse_Logo_2017.svg)](https://www.eclipse.org/)
 [![VS Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)
 [![IAR](https://upload.wikimedia.org/wikipedia/commons/2/2b/IAR_Embedded_Workbench_logo.svg)](https://www.iar.com/)
+[![Proteus](https://upload.wikimedia.org/wikipedia/commons/4/4f/Proteus_Logo.png)](https://www.labcenter.com/)[![Eclipse](https://upload.wikimedia.org/wikipedia/commons/4/4f/Eclipse_Logo_2017.svg)](https://www.eclipse.org/)
+[![VS Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)](https://code.visualstudio.com/)
+[![IAR](https://upload.wikimedia.org/wikipedia/commons/2/2b/IAR_Embedded_Workbench_logo.svg)](https://www.iar.com/)
 [![Proteus](https://upload.wikimedia.org/wikipedia/commons/4/4f/Proteus_Logo.png)](https://www.labcenter.com/)
