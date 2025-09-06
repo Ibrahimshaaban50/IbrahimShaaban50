@@ -34,30 +34,24 @@
 # Embedded Systems Tools
 # EMBEDDED SYSTEM TOOLS
 <hr style="border: 2px solid purple;">
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proteus/proteus-original.svg" width="64" height="64" alt="Proteus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" height="64" alt="Arduino IDE" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="64" height="64" alt="Eclipse" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" height="64" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codecomposer/codecomposer-original.svg" width="64" height="64" alt="Code Composer" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/iar/iar-original.svg" width="64" height="64" alt="IAR" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tresos/tresos-original.svg" width="64" height="64" alt="Tresos GUI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stm32/stm32-original.svg" width="64" height="64" alt="STM32CubeIDE" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stm32/stm32-original.svg" width="64" height="64" alt="STM32CubeProg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/espressif/espressif-original.svg" width="64" height="64" alt="ESP-IDF" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" height="64" alt="Arduino IDE" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proteus/proteus-original.svg" width="64" height="64" alt="Proteus" />
+# EMBEDDED SYSTEM TOOLS
+<hr style="border: 2px solid purple;">
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" height="64" alt="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64" height="64" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="64" height="64" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" height="64" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="64" height="64" alt="Eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="64" height="64" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
+  <img src="https://www.labcenter.com/wp-content/uploads/2021/09/proteus-logo.png" width="64" height="64" alt="Proteus" />
 </div>
 
 
