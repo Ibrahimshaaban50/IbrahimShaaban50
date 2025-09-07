@@ -32,18 +32,18 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; max-width: 520px;">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
   <!-- الصف الأول -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" height="64" alt="Anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64" height="64" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="64" height="64" alt="Git" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="64" height="64" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" />
 
   <!-- سطر فاصل -->
-  <div style="flex-basis: 100%; height: 16px;"></div>
+  <div style="flex-basis: 100%; height: 20px;"></div>
 
   <!-- الصف الثاني -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="64" height="64" alt="Arduino" />
