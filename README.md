@@ -32,7 +32,7 @@
 ●🤝 I’m looking to collaborate with innovative companies in automotive and embedded systems, contributing to smarter and more efficient solutions.
 
 # Embedded Systems Tools
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(7, 1fr); gap: 20px; justify-items: center; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" height="64" alt="Anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64" height="64" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" />
@@ -46,8 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  <img src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/proteus-m6yuuf4xb9n49h83irqsfn.png/proteus-9iq1io6zwhr4e131ry1sex.png?_a=DATAg1XyZAA0" alt="Proteus" width="48" height="48" />
+  <img src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/proteus-m6yuuf4xb9n49h83irqsfn.png/proteus-9iq1io6zwhr4e131ry1sex.png?_a=DATAg1XyZAA0" alt="Proteus" width="64" height="64" />
 </div>
+
 
 
 <hr style="border: 2px solid purple;">
