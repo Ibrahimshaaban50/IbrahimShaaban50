@@ -47,9 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="64" height="64" alt="MATLAB" />
-  <img src="https://assets.streamlinehq.com/image/private/w_500,h_500,ar_1/f_auto/v1/icons/logos/proteus-m6yuuf4xb9n49h83irqsfn.png" width="64" height="64" alt="Proteus" />
+  <img src="https://i.imgur.com/vt5E7Yf.png" width="64" height="64" alt="Proteus" />
 </div>
-
 
 
 
