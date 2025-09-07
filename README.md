@@ -48,5 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
   <img src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/proteus-m6yuuf4xb9n49h83irqsfn.png/proteus-9iq1io6zwhr4e131ry1sex.png?_a=DATAg1XyZAA0" width="48" height="48" alt="Proteus" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/C_Programming_Language.svg?width=256" width="48" height="48" alt="C" />
+  <img src="https://logo.svgcdn.com/l/ubuntu.png" width="48" height="48" alt="Ubuntu" />
 </p>
 <hr style="border: 2px solid purple;">
