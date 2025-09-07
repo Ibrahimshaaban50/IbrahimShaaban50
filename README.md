@@ -34,7 +34,7 @@
 # Embedded Systems Tools
 <!-- الصف الأول -->
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" height="64" alt="Anaconda" style="margin: 10px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="64" height="64" alt="Anaconda" style="margin: 10px;"      /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="64" height="64" alt="C Logo" style="margin: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" style="margin: 10px;" /> 
