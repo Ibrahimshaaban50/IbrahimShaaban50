@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" width="48" height="48" alt="Embedded C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="48" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="64" height="64" alt="GitHub" />
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="64" height="64" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
@@ -48,7 +48,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
   <img src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/proteus-m6yuuf4xb9n49h83irqsfn.png/proteus-9iq1io6zwhr4e131ry1sex.png?_a=DATAg1XyZAA0" width="48" height="48" alt="Proteus" />
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="64" height="64" alt="GitHub" />
-
 </p>
 <hr style="border: 2px solid purple;">
