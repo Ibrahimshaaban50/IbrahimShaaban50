@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="60" height="60" alt="Arduino" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" height="60" alt="Eclipse" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="60" height="60" alt="Ubuntu" style="margin: 10px;" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Ubuntu-logo-no-wordmark-solid-o-2022.svg" width="64" height="64" alt="Ubuntu Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="60" height="60" alt="Raspberry Pi" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="60" height="60" alt="MATLAB" style="margin: 10px;" />
   <img src="https://assets.streamlinehq.com/image/private/w_60,h_60,ar_1/f_auto/v1/icons/logos/proteus-m6yuuf4xb9n49h83irqsfn.png/proteus-9iq1io6zwhr4e131ry1sex.png?_a=DATAg1XyZAA0" alt="Proteus" width="60" height="60" style="margin: 10px;" />
